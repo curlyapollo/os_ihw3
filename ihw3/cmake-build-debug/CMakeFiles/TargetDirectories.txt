@@ -1,0 +1,3 @@
+/Users/curlyapollo/CLionProjects/2nd_year/oc/ihw3/cmake-build-debug/CMakeFiles/ihw3.dir
+/Users/curlyapollo/CLionProjects/2nd_year/oc/ihw3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/curlyapollo/CLionProjects/2nd_year/oc/ihw3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
